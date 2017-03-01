@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# joe cool
+# Dhrumil Mehta
 
-### I'm a _digital thought leader_ with a passion for _revolutionizing the human condition_
+### I'm a _database journalist_ at _FiveThirtyEight__
 
 Bacon ipsum dolor amet salami leberkas pig short loin porchetta frankfurter cupim
 drumstick meatball tongue alcatra. Turkey [prosciutto capicola](#) alcatra corned beef.
