@@ -1,10 +1,9 @@
-title: Joe Cool's Online Biography
+title: Dhrumil Mehta
 
-email: hello@joecool.com
-github_url: https://github.com/joecool
-linkedin_url: https://linkedin.com/in/joecool
-medium_url: https://medium.com/joecool
-twitter_url: https://twitter.com/joecool
+email: dhrumil.mehta@gmail.com
+github_url: https://github.com/dmil
+linkedin_url: https://linkedin.com/in/dhrumilmehta
+twitter_url: https://twitter.com/datadhrumil
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
