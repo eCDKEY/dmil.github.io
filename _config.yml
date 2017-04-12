@@ -4,6 +4,16 @@ email: dhrumil.mehta@gmail.com
 github_url: https://github.com/dmil
 linkedin_url: https://linkedin.com/in/dhrumilmehta
 twitter_url: https://twitter.com/datadhrumil
+medium_url: https://medium.com/@DataDhrumil
 
-exclude: screenshots, LICENSE, README.md
+exclude: [screenshots, LICENSE, README.md]
 markdown: kramdown
+
+button_1_text: Work
+button_1_url: http://fivethirtyeight.com/contributors/dhrumil-mehta/
+
+button_2_text: Teaching
+button_2_url: https://www.hks.harvard.edu/about/faculty-staff-directory/dhrumil-mehta/
+
+button_3_text: Blog
+button_3_url: https://twitter.com/datadhrumil
