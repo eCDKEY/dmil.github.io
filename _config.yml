@@ -15,5 +15,8 @@ button_1_url: work
 button_2_text: Teaching
 button_2_url: teaching
 
-button_3_text: Blog
-button_3_url: https://twitter.com/datadhrumil
+# button_3_text: Projects
+# button_3_url: projects
+
+button_3_text: Home
+button_3_url: index

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Teaching
+# Classes
 
 _Programming and Data for Policymakers_, a course which I developed that blended hands-on programming lessons and discussions about technology policy at the [Harvard Kennedy School](https://www.hks.harvard.edu/degrees/teaching-courses/course-listing/dpi-691m)
 
-_Technical Learning Sessions_ and staff training on topics like regular expressions, GitHub, and web scraping [FiveThirtyEight](https://fivethirtyeight.com)
+_Technical Learning Series_ and staff training on topics like regular expressions, GitHub, and web scraping [FiveThirtyEight](https://fivethirtyeight.com)
 
 # Workshops
 
