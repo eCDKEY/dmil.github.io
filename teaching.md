@@ -12,7 +12,7 @@ _Technical Learning Series_ and staff training on topics like regular expression
 
 _How to Tell a Story With Data: Tools of the Trade_ workshop at the [Harvard Kennedy School](https://www.hks.harvard.edu/news-events/events-calendar/how-to-tell-a-story-with-data-tools-of-the-trade/(year)/2016/(month)/4)
 
-_Numbers to Narrative: Telling Stories to Data_, a presentation as part of Northwestern's "One Book One Northwestern" [lecture series](http://www.northwestern.edu/onebook/connect/2016/index.html) as well as guest lecturing and mentoring student projects for the Medill Knight Lab's "Data Stories" course
+_Numbers to Narrative: Telling Stories with Data_, a presentation as part of Northwestern's "One Book One Northwestern" [lecture series](http://www.northwestern.edu/onebook/connect/2016/index.html) as well as guest lecturing and mentoring student projects for the Medill Knight Lab's "Data Stories" course
 
 _Digital Tools for Data-Driven Investigation_ workshop at the [Harvard Kennedy School](http://ash.harvard.edu/event/digital-tools-data-driven-investigation)
 
