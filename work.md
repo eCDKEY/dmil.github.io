@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-
-# Journalism
+# Work
 
 _FiveThirtyEight_ contributor [page](https://fivethirtyeight.com/contributors/dhrumil-mehta/)
+
+_Harvard Kennedy School_ faculty [profile](https://www.hks.harvard.edu/about/faculty-staff-directory/dhrumil-mehta/(page)/faculty)
 
 _Knight Lab_ [blog](https://knightlab.northwestern.edu/2013/03/06/numbers-and-narriative-a-computer-scientist-at-nicar/index.html) [posts](https://knightlab.northwestern.edu/2014/04/08/how-a-young-developer-stumbled-in-to-journalism-and-then-landed-at-fivethirtyeight/)
 
