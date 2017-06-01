@@ -6,7 +6,7 @@ layout: default
 
 _Programming and Data for Policymakers_, a course which I developed that blended hands-on programming lessons and discussions about technology policy at the [Harvard Kennedy School](https://www.hks.harvard.edu/degrees/teaching-courses/course-listing/dpi-691m)
 
-_Technical Learning Series_ and staff training on topics like regular expressions, GitHub, and web scraping [FiveThirtyEight](https://fivethirtyeight.com)
+_Technical Learning Series_ and staff training on topics like regular expressions, GitHub, and web scraping at [FiveThirtyEight](https://fivethirtyeight.com)
 
 # Workshops
 
@@ -16,9 +16,7 @@ _Numbers to Narrative: Telling Stories with Data_, a presentation as part of Nor
 
 _Digital Tools for Data-Driven Investigation_ workshop at the [Harvard Kennedy School](http://ash.harvard.edu/event/digital-tools-data-driven-investigation)
 
-
 Guest lecture _Introducing Git and Github_ at [The New School](http://www.newschool.edu/parsons/minor-data-visualization/)
-
 
 # Presentations
 
