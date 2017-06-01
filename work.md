@@ -6,7 +6,7 @@ layout: default
 
 _FiveThirtyEight_ contributor [page](https://fivethirtyeight.com/contributors/dhrumil-mehta/)
 
-_Knight Lab_ contributor [page](http://knightlab.northwestern.edu/author/dhrumil)
+_Knight Lab_ [blog](https://knightlab.northwestern.edu/2013/03/06/numbers-and-narriative-a-computer-scientist-at-nicar/index.html)
 
 # Research
 
