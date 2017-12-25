@@ -28,5 +28,5 @@ _Political framing: Computational analysis of rhetoric in large text datasets_ a
 
 _Data Journalism_ panel discussion and guest lecture in a data journalism course at [Syracuse University's Newhouse School](http://newhouse.syr.edu/news-events/news/panel-discussion-newhouse-school-will-explore-data-journalism)
 
-_Northwestern University_ [Machine Learning Meetup](https://www.meetup.com/it-IT/NUMachineLearning/events/123802342/)
+_Machine Learning Meetup_ at [Northwestern University](https://www.meetup.com/it-IT/NUMachineLearning/events/123802342/)
 
