@@ -9,7 +9,7 @@ _Knight Lab_ [blog](https://knightlab.northwestern.edu/2013/03/06/numbers-and-na
 
 # Teaching
 
-_Harvard Kennedy School_ faculty [profile](https://www.hks.harvard.edu/about/faculty-staff-directory/dhrumil-mehta/(page)/faculty)
+_Harvard Kennedy School_ faculty [profile](https://www.hks.harvard.edu/faculty/dhrumil-mehta)
 
 # Research
 
