@@ -1,22 +1,18 @@
-title: Dhrumil Mehta
+title: Eiman Siddiqui
 
-email: dhrumil.mehta@fivethirtyeight.com
-github_url: https://github.com/dmil
-linkedin_url: https://linkedin.com/in/dhrumilmehta
-twitter_url: https://twitter.com/datadhrumil
-medium_url: https://medium.com/@DataDhrumil
+email: eimansiddiqui@gmail.com
+github_url: https://github.com/eCDKEY
+linkedin_url: https://linkedin.com/in/eimansiddiqui
+twitter_url: https://twitter.com/eimansiddiqui
 
 exclude: [screenshots, LICENSE, README.md]
 markdown: kramdown
 
-button_1_text: Work
-button_1_url: work
+button_1_text: Home
+button_1_url: index
 
-button_2_text: Teaching
-button_2_url: teaching
+button_2_text: Work
+button_2_url: work
 
-button_3_text: Media
-button_3_url: media
-
-button_4_text: Home
-button_4_url: index
+button_3_text: Home
+button_3_url: index
