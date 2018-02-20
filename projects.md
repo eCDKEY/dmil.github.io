@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Global Shapers - Austin Hub
+# Projects
+## Global Shapers - Austin Hub
 
 Worked on developing methods to tackle affordability in East Austin. 
 
