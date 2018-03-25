@@ -1,22 +1,32 @@
 title: Dhrumil Mehta
 
-email: dhrumil.mehta@fivethirtyeight.com
-github_url: https://github.com/dmil
-linkedin_url: https://linkedin.com/in/dhrumilmehta
-twitter_url: https://twitter.com/datadhrumil
-medium_url: https://medium.com/@DataDhrumil
-
 exclude: [screenshots, LICENSE, README.md]
 markdown: kramdown
 
-button_1_text: Work
-button_1_url: work
+buttons:
+ - text: Home
+   url: /
+ - text: Work
+   url: work
+ - text: Teaching
+   url: teaching
+ - text: Media
+   url: media
 
-button_2_text: Teaching
-button_2_url: teaching
+social:
+  - type: email
+    value: mailto:dhrumil.mehta@fivethirtyeight.com
+    class: envelope-o
+  - type: github
+    value: https://github.com/dmil
+    class: github
+  - type: linkedin
+    value: https://linkedin.com/in/dhrumilmehta
+    class: linkedin
+  - type: twitter
+    value: https://twitter.com/datadhrumil
+    class: twitter
+  - type: medium
+    value: https://medium.com/@DataDhrumil
+    class: medium
 
-button_3_text: Media
-button_3_url: media
-
-button_4_text: Home
-button_4_url: index
