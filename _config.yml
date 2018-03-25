@@ -1,4 +1,4 @@
-title: Dhrumil Mehta
+title: Eiman Siddiqui
 
 exclude: [screenshots, LICENSE, README.md]
 markdown: kramdown
@@ -8,25 +8,19 @@ buttons:
    url: /
  - text: Work
    url: work
- - text: Teaching
-   url: teaching
- - text: Media
-   url: media
+ - text: Projects
+   url: projects
 
 social:
   - type: email
-    value: mailto:dhrumil.mehta@fivethirtyeight.com
+    value: mailto:eimansiddiqui@gmail.com
     class: envelope-o
   - type: github
-    value: https://github.com/dmil
+    value: https://github.com/eCDKEY
     class: github
   - type: linkedin
-    value: https://linkedin.com/in/dhrumilmehta
+    value: https://linkedin.com/in/eimansiddiqui
     class: linkedin
   - type: twitter
-    value: https://twitter.com/datadhrumil
+    value: https://twitter.com/eimansiddiqui
     class: twitter
-  - type: medium
-    value: https://medium.com/@DataDhrumil
-    class: medium
-
