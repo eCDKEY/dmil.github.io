@@ -18,38 +18,20 @@
       <section id="pic">
         <a href="index"> <img src="assets/images/flair.jpg"></img> </a>
         <br/>
-          {% for cupcake in site.buttons %}
-            <button type="button" onclick="location.href='{{ cupcake.url }}';"> {{ cupcake.text }} </button>
+          {% for button in site.buttons %}
+            <button type="button" onclick="location.href='{{ button.url }}';"> {{ button.text }} </button>
           {% endfor %}
       </section>
       <div class="u-cf"></div>
       <section id="social-media-links">
         <ul>
-          <li class="social-medium">
-            <a href="{{ site.medium_url }}">
-              <i class="fa fa-medium"></i>
-            </a>
-          </li>
-          <li class="social-github">
-            <a href="{{ site.github_url }}">
-              <i class="fa fa-github"></i>
-            </a>
-          </li>
-          <li class="social-twitter">
-            <a href="{{ site.twitter_url }}">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-          <li class="social-linkedin">
-            <a href="{{ site.linkedin_url }}">
-              <i class="fa fa-linkedin"></i>
-            </a>
-          </li>
-          <li class="social-email">
-            <a href="mailto:{{ site.email }}">
-              <i class="fa fa-envelope-o"></i>
-            </a>
-          </li>
+          {% for item in site.social %}
+            <li class="social-{{ item.type }}">
+              <a href="{{ item.value }}">
+                <i class="fa fa-{{ item.class }}"></i>
+              </a>
+            </li>
+          {% endfor %}
         </ul>
       </section>
     </div>
