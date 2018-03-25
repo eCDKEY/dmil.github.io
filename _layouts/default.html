@@ -18,9 +18,9 @@
       <section id="pic">
         <a href="index"> <img src="assets/images/flair.jpg"></img> </a>
         <br/>
-        <button type="button" onclick="location.href='{{ site.button_1_url }}';"> {{ site.button_1_text }} </button>
-        <button type="button" onclick="location.href='{{ site.button_2_url }}';"> {{ site.button_2_text }} </button>
-        <button type="button" onclick="location.href='{{ site.button_3_url }}';"> {{ site.button_3_text }} </button>
+          {% for cupcake in site.buttons %}
+            <button type="button" onclick="location.href='{{ cupcake.url }}';"> {{ cupcake.text }} </button>
+          {% endfor %}
       </section>
       <div class="u-cf"></div>
       <section id="social-media-links">

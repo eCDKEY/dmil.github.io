@@ -9,14 +9,12 @@ medium_url: https://medium.com/@DataDhrumil
 exclude: [screenshots, LICENSE, README.md]
 markdown: kramdown
 
-button_1_text: Work
-button_1_url: work
-
-button_2_text: Teaching
-button_2_url: teaching
-
-button_3_text: Media
-button_3_url: media
-
-button_4_text: Home
-button_4_url: index
+buttons:
+ - text: Home
+   url: /
+ - text: Work
+   url: work
+ - text: Teaching
+   url: teaching
+ - text: Media
+   url: media
