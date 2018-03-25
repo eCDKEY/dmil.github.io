@@ -1,18 +1,26 @@
 title: Eiman Siddiqui
 
-email: eimansiddiqui@gmail.com
-github_url: https://github.com/eCDKEY
-linkedin_url: https://linkedin.com/in/eimansiddiqui
-twitter_url: https://twitter.com/eimansiddiqui
-
 exclude: [screenshots, LICENSE, README.md]
 markdown: kramdown
 
-button_1_text: Home
-button_1_url: index
+buttons:
+ - text: Home
+   url: /
+ - text: Work
+   url: work
+ - text: Projects
+   url: projects
 
-button_2_text: Work
-button_2_url: work
-
-button_3_text: Projects
-button_3_url: projects
+social:
+  - type: email
+    value: mailto:eimansiddiqui@gmail.com
+    class: envelope-o
+  - type: github
+    value: https://github.com/eCDKEY
+    class: github
+  - type: linkedin
+    value: https://linkedin.com/in/eimansiddiqui
+    class: linkedin
+  - type: twitter
+    value: https://twitter.com/eimansiddiqui
+    class: twitter
