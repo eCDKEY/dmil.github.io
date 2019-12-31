@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Texas Legislature
+# Legislation + Policy
 
 Currently Chief of Staff for State Rep. Tom Oliverson. Previously policy analyst and capitol director for Rep. Jim Murphy and Rep. Rick Galindo
 
@@ -11,11 +11,6 @@ Currently Chief of Staff for State Rep. Tom Oliverson. Previously policy analyst
 
 Senate Bill 1264 by Sen. Hancock and Rep. Oliverson eliminates most _Surprise Medical Billing_ for Texans with state regulated health insurance plans. The bill prevents patients from getting balanced billed while creating a dispute resolution process using arbitration for healthcare professionals and mediation for facilities. The Texas legislature overwhelmingly passed SB 1264 which was a product of significant stakeholder input and support.
 
-     + includes all services and facilities except ground and air ambulance
-     
-     + arbitrators consider the median in-network rates and 80th percentile billed charges
-     
-     + patients are protected from balance bills
      
      
 House Bill 2536 by Rep. Oliverson and Sen. Hancock required _Drug Price Transparency_ by drug manufacturers, pharmacy benefit managers and health plans. The bill is one of the strongest pieces of transparency legislation in the nation and requires drug manufacturers to report if they increase drug prices over 15% in a year. The bill also requires PBM's to disclose their drug rebate revenue. 
