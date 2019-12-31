@@ -1,9 +1,7 @@
 #pic {
-  display: none;
 
   @media (min-width: $large-device) {
     width: 25%;
-
     display: block;
     float: left;
   }
@@ -11,8 +9,11 @@
   img {
     height: auto;
     max-width: 100%;
+    display: none;
+    @media (min-width: $large-device) {
+      display: block;
+    }
 
-    display: block;
   }
 
   button {
