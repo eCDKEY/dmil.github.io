@@ -10,4 +10,4 @@ I am also currently the _Curator_ of the [Austin Hub of Global Shapers](http://w
 
 Passionate about good governance that prioritizes people, encouraging voting and civic participation, Houston sports teams, Liverpool FC, reading books, and visiting a new state and a new country every year.
 
-Policy areas include _healthcare_, _insurance_, _higher ed_, _technology_, _land development_ 
+Policy areas include _healthcare_, _insurance_, _higher ed_, _technology_, _land development_.
