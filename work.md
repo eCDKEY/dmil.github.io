@@ -5,12 +5,26 @@ layout: default
 
 # Texas Legislature
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tellus lacus, faucibus sed ultricies id, aliquam quis lectus. Donec dictum vitae orci ut viverra. Vestibulum pulvinar a odio quis sodales. Vivamus id felis pellentesque, vehicula libero in, ultrices nibh. Pellentesque molestie aliquet metus ac mollis. Vivamus varius, leo non fringilla placerat, justo augue posuere justo, a ultricies libero nibh eu odio. Donec orci tortor, ultricies id leo et, varius posuere diam. In libero neque, scelerisque hendrerit tempus at, semper in augue. Vestibulum tempor augue ut quam ultrices, nec malesuada turpis feugiat. Aliquam luctus urna elit, bibendum condimentum turpis lacinia nec. Nulla dignissim diam molestie diam semper, sit amet feugiat odio sagittis. Curabitur id auctor nunc.
+Currently Chief of Staff for State Rep. Tom Oliverson. Previously policy analyst and capitol director for Rep. Jim Murphy and Rep. Rick Galindo. 
 
+Senate Bill 1264 by Sen. Hancock and Rep. Oliverson eliminates most _Surprise Medical Billing_ for Texans with state regulated health insurance plans. The bill prevents patients from getting balanced billed while creating a dispute resolution process using arbitration for healthcare professionals and mediation for facilities. The Texas legislature overwhelmingly passed SB 1264 which was a product of significant stakeholder input and support.
+     + includes all services and facilities except ground and air ambulance
+     + arbitrators consider the median in-network rates and 80th percentile billed charges
+     + patients are protected from balance bills
+     
+     
+House Bill 2536 by Rep. Oliverson and Sen. Hancock required _Drug Price Transparency_ by drug manufacturers, pharmacy benefit managers and health plans. The bill is one of the strongest pieces of transparency legislation in the nation and requires drug manufacturers to report if they increase drug prices over 15% in a year. The bill also requires PBM's to disclose their drug rebate revenue. 
+
+
+Over the course of the 85th and the 86th sessions, I worked on multiple pieces of legislation to create strong _Freestanding Emergency Room Consumer Protections_. The legislation focused on ensuring patients at freestanding ERs would not be confused about their insurance coverage as they were experiencing an emergency. 
+
+
+During the 84th session, I created the first framework for _Drone Regulations_ restricting airspace for drones over certain critical infrastructure sites. HB 1481 by Rep. Murphy and Sen. Birdwell was the initial legislation restricting drones from flying over critical infrastructure, that has been expanded in the 85th and 86th legislative sessions. 
+
+
+Every legislative session so far I have worked on making _Higher Education_ more accessible, cheaper, and efficient. I am most proud of my efforts in the 86th session which lead to the creation of a community college degree program for people with intellectual and developmental disabilities. 
 <hr>
-# Political Campaigning
 
-Nulla tincidunt a erat nec laoreet. Sed sit amet tellus vel odio aliquet consequat. Proin consequat mattis elit vel cursus. Aliquam eu nibh fermentum, tristique tortor quis, accumsan mauris. Nullam euismod erat a dui tincidunt dapibus. Sed in blandit ante. In posuere vehicula arcu a dictum. Sed semper, tellus id ultrices aliquam, nunc urna scelerisque sapien, at ornare lectus arcu sodales diam. Nullam aliquet risus erat. Quisque faucibus eget arcu vel consequat. Nunc bibendum tortor non consequat eleifend. Etiam aliquet leo non magna tempus, in euismod sapien placerat. Morbi scelerisque nisi magna, vitae elementum mauris aliquam sed. Praesent sagittis ligula eget risus tincidunt consectetur. Duis ornare dui sit amet molestie gravida.
 
 
 
